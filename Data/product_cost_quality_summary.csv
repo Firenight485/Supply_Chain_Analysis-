@@ -1,0 +1,4 @@
+product_type,total_units,avg_mfg_cost,avg_defect_rate,est_defect_cost,expected_quality_cost_per_unit,total_expected_quality_cost
+skincare,40,48.99,2.33,636.91,114.38,4575.34
+haircare,34,48.46,2.48,629.95,120.33,4091.17
+cosmetics,26,43.05,1.92,430.53,82.63,2148.39

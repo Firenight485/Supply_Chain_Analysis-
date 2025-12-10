@@ -1,0 +1,4 @@
+product_type,record_count,avg_mfg_lead_time,avg_supplier_lead_time,mfg_lead_time_variance,supplier_lead_time_variance,avg_mfg_cost,supply_chain_gap_days,lead_time_ratio
+skincare,40,13.78,16.7,8.09,8.26,48.99,2.92,1.21
+haircare,34,17.06,15.53,9.25,9.19,48.46,-1.53,0.91
+cosmetics,26,13.31,15.38,9.41,9.29,43.05,2.08,1.16
